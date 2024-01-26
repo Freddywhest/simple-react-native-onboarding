@@ -1,3 +1,5 @@
+import React from "react";
+
 interface Props {
     data: Data[]; 
     buttonBackgroundColor?: string; 
@@ -10,7 +12,7 @@ export interface Data {
     _id: string;
     title: string;
     description: string;
-    image:Element<T>;
+    image:React.ReactElement;
 }
 
 export default class Onboarding extends React.Component<Props> {

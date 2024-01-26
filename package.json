@@ -1,6 +1,6 @@
 {
   "name": "simple-react-native-onboarding",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Create Onboarding Screen in React Native easily and faster",
   "main": "index.js",
   "repository": {
