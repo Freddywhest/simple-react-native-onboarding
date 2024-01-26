@@ -1,0 +1,38 @@
+{
+  "name": "simple-rn-onboarding",
+  "version": "1.0.0",
+  "description": "Create Onboarding Screen in React Native easily and faster",
+  "main": "index.js",
+  "repository": {
+    "type": "github",
+    "url": "git+https://github.com/Freddywhest/simple-rn-onboarding.git"
+  },
+  "keywords": [
+    "onboarding",
+    "react-native",
+    "ReactNative",
+    "React",
+    "Reanimated",
+    "Skia",
+    "Animation",
+    "React-Native",
+    "Component",
+    "Onboarding",
+    "Tutorial",
+    "Intro",
+    "Swiper",
+    "Welcome",
+    "Introduction",
+    "Instructions"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "author": "Alfred Nti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Freddywhest/simple-rn-onboarding/issues"
+  },
+  "homepage": "https://github.com/Freddywhest/simple-rn-onboarding#readme"
+}
